@@ -28,6 +28,7 @@ function Api() {
                     <li key={prod.id}>
                         {prod.nom}<br></br>
                         {prod.prix}<br></br>
+                        {prod.id}<br></br>
                         {prod.rubriques.map((rub => (
                             <div key={rub.id}>
                                 {rub.nom}
