@@ -5,7 +5,7 @@ function Creer() {
         nom: "xxx",
         description: "",
         prix: "15",
-        photo: "sans",
+        photo: "https://static.vecteezy.com/ti/vecteur-libre/p1/4141669-aucune-photo-ou-image-blanche-icone-chargement-images-ou-image-manquante-marque-image-non-disponible-ou-image-coming-soon-sign-simple-nature-silhouette-in-frame-illustrationle-isolee-vectoriel.jpg",
         rubriques: [
             "/api/rubriques/1"
         ],
